@@ -5,8 +5,6 @@ authors:
   - Faustino Aguilar <faustinoaq@gmail.com>
 
 dependencies:
-  sentry:
-    github: samueleaton/sentry
-    version: 0.3.1
+
 
 license: MIT
